@@ -1,7 +1,7 @@
 # Hi there, I'm Swetha 👋  
 
 ## 🚀 About Me  
-I am a Software Engineer with over 2 years of experience developing serverless web applications on AWS. I specialize in backend development with Python and have expertise in REST APIs, AWS services, and frontend development using Angular.  
+I am a Software Engineer with 2 years of experience developing serverless web applications on AWS. I specialize in backend development with Python and have expertise in REST APIs, AWS services, and frontend development using Angular.  
 
 ## 🔧 Skills
 - **Languages**: Python, SQL, JavaScript  
